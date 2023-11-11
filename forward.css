@@ -1,0 +1,20 @@
+.logo{
+    width: 300px;
+    justify-content: center;
+    display: block;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+p{
+    font-family: 'Playpen Sans', cursive;
+    text-align: center;
+    margin: 50px 150px;
+}
+.button {
+    font-family: 'Playpen Sans', cursive;
+    background-color: black;
+  color: white;
+  cursor: pointer;
+  }

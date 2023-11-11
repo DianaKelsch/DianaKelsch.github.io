@@ -1,0 +1,40 @@
+.site-heading {
+    background-color: rgb(131, 131, 244);
+    color: rgb(241, 126, 245);
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0px;
+    font-family: 'Playpen Sans', cursive;
+    font-size: 2rem;
+}
+.button {
+    font-family: 'Playpen Sans', cursive;
+   background-color: purple ;
+  color: white;
+  cursor: pointer;
+ 
+  }
+.logo{ 
+    width: 450px;
+    display: inline-block;
+    margin: 0;
+    padding: 8px;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+    display: block;
+}
+.work{
+ font-family: 'Playpen Sans', cursive;
+}
+
+.help{
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0;
+
+}
