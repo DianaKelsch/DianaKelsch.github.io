@@ -8,11 +8,11 @@
     font-size: 2rem;
 }
 .button {
-    font-family: 'Playpen Sans', cursive;
+   font-family: 'Playpen Sans', cursive;
    background-color: purple ;
-  color: white;
-  cursor: pointer;
- 
+   color: white;
+   cursor: pointer;
+   float: left;
   }
 .logo{ 
     width: 450px;

@@ -22,11 +22,10 @@ cursor: pointer;
     font-size: 4rem;
     color: white;  
 }
-    .school{
-width: 350px;
+.school{
 font-family: 'Playpen Sans', cursive;
 text-align: center;
-font-size: 25px;
+font-size: 20px;
 font-weight: bold;
 color: white;
 }
